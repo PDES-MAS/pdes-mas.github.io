@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<img width="200" height="240" alt="22955efab4f8f5eb6661e17a498dc240" src="https://github.com/user-attachments/assets/fea987b3-2c94-40d8-9538-2e6e07e32275" />
+
 
 # PDES-MAS
 
